@@ -27,9 +27,9 @@ Computer Science student at the Federal University of Minas Gerais focused on Co
 </p>
 
 ### 🔗 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/davifrangel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/davirangelb/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ### 📊 GitHub Stats
