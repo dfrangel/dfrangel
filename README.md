@@ -35,6 +35,9 @@ Computer Science student at the Federal University of Minas Gerais focused on Co
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=dfrangel&show_icons=true&theme=tokyonight&title_color=265dab&icon_color=265dab&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=dfrangel&show_icons=true&theme=tokyonight&hide_rank=true&title_color=265dab&icon_color=265dab&hide_border=true&bg_color=00000000&count_private=true&hide=stars,prs" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=dfrangel&layout=compact&theme=tokyonight&title_color=265dab&icon_color=265dab&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+<p align="center">
+  <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=dfrangel&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Gráfico de Atividade" />
 </p>
